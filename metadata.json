@@ -1,0 +1,6 @@
+{
+  "name": "ذكّرني - Zakkirni",
+  "description": "تطبيق احترافي للمذكرات والتذكيرات والمنبّهات الذكية لنظام Android يعمل دون إنترنت مع دعم كامل للغة العربية والتقويم والتنبيهات المتعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
